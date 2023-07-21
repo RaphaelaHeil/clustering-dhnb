@@ -1,6 +1,8 @@
 # Clustering-based Analysis of Handwritten Digits
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RaphaelaHeil/clustering-dhnb/HEAD?labpath=worked_example.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RaphaelaHeil/clustering-dhnb/HEAD?labpath=worked_example.ipynb) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8172293.svg)](https://doi.org/10.5281/zenodo.8172293)
+
+
 
 
 
